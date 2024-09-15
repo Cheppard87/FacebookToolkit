@@ -29,7 +29,8 @@ Made with ❤️ by <a href="https://github.com/warifp">Wahyu Arif Purnomo</a>
 
 <p align="center">
   <a><br> UPDATE 1.4 </br></a>
-  <img src="images/add_access_token.png" width="640" title="Version 1.4" alt="Version 1.4">
+  <img src="images/add_access_token.png" width="640" title="Version 1.4" alt="Version 1.4"
+>
 </p>
 
 <p align="center">
